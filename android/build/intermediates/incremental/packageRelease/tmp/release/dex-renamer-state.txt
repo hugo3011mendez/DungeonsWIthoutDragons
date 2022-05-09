@@ -1,0 +1,4 @@
+#Tue Mar 02 11:31:19 CET 2021
+base.0=G\:\\2DAM\\MobileApps\\Dungeons Without Dragons\\Dungeons Without Dragons\\DungeonsWithoutDragons\\android\\build\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

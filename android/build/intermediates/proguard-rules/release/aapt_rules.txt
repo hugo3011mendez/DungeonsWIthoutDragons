@@ -1,0 +1,2 @@
+# Referenced at G:\2DAM\MobileApps\Dungeons Without Dragons\Dungeons Without Dragons\DungeonsWithoutDragons\android\build\intermediates\merged_manifests\release\AndroidManifest.xml:18
+-keep class dungeons.without.dragons.AndroidLauncher { <init>(); }

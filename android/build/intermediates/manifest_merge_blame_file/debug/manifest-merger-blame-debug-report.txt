@@ -1,0 +1,56 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="dungeons.without.dragons"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="14"
+8-->G:\2DAM\MobileApps\Dungeons Without Dragons\Dungeons Without Dragons\DungeonsWithoutDragons\android\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->G:\2DAM\MobileApps\Dungeons Without Dragons\Dungeons Without Dragons\DungeonsWithoutDragons\android\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.VIBRATE" />
+11-->G:\2DAM\MobileApps\Dungeons Without Dragons\Dungeons Without Dragons\DungeonsWithoutDragons\android\AndroidManifest.xml:5:5-66
+11-->G:\2DAM\MobileApps\Dungeons Without Dragons\Dungeons Without Dragons\DungeonsWithoutDragons\android\AndroidManifest.xml:5:22-63
+12
+13    <application
+13-->G:\2DAM\MobileApps\Dungeons Without Dragons\Dungeons Without Dragons\DungeonsWithoutDragons\android\AndroidManifest.xml:7:5-28:19
+14        android:allowBackup="true"
+14-->G:\2DAM\MobileApps\Dungeons Without Dragons\Dungeons Without Dragons\DungeonsWithoutDragons\android\AndroidManifest.xml:8:9-35
+15        android:appCategory="game"
+15-->G:\2DAM\MobileApps\Dungeons Without Dragons\Dungeons Without Dragons\DungeonsWithoutDragons\android\AndroidManifest.xml:11:9-35
+16        android:debuggable="true"
+17        android:icon="@drawable/ic_launcher"
+17-->G:\2DAM\MobileApps\Dungeons Without Dragons\Dungeons Without Dragons\DungeonsWithoutDragons\android\AndroidManifest.xml:9:9-45
+18        android:isGame="true"
+18-->G:\2DAM\MobileApps\Dungeons Without Dragons\Dungeons Without Dragons\DungeonsWithoutDragons\android\AndroidManifest.xml:10:9-30
+19        android:label="@string/app_name"
+19-->G:\2DAM\MobileApps\Dungeons Without Dragons\Dungeons Without Dragons\DungeonsWithoutDragons\android\AndroidManifest.xml:12:9-41
+20        android:testOnly="true"
+21        android:theme="@style/GdxTheme" >
+21-->G:\2DAM\MobileApps\Dungeons Without Dragons\Dungeons Without Dragons\DungeonsWithoutDragons\android\AndroidManifest.xml:13:9-40
+22        <activity
+22-->G:\2DAM\MobileApps\Dungeons Without Dragons\Dungeons Without Dragons\DungeonsWithoutDragons\android\AndroidManifest.xml:15:9-26:20
+23            android:name="dungeons.without.dragons.AndroidLauncher"
+23-->G:\2DAM\MobileApps\Dungeons Without Dragons\Dungeons Without Dragons\DungeonsWithoutDragons\android\AndroidManifest.xml:16:13-68
+24            android:configChanges="keyboard|keyboardHidden|navigation|orientation|screenSize|screenLayout"
+24-->G:\2DAM\MobileApps\Dungeons Without Dragons\Dungeons Without Dragons\DungeonsWithoutDragons\android\AndroidManifest.xml:19:13-107
+25            android:label="@string/app_name"
+25-->G:\2DAM\MobileApps\Dungeons Without Dragons\Dungeons Without Dragons\DungeonsWithoutDragons\android\AndroidManifest.xml:17:13-45
+26            android:screenOrientation="landscape" >
+26-->G:\2DAM\MobileApps\Dungeons Without Dragons\Dungeons Without Dragons\DungeonsWithoutDragons\android\AndroidManifest.xml:18:13-50
+27            <intent-filter>
+27-->G:\2DAM\MobileApps\Dungeons Without Dragons\Dungeons Without Dragons\DungeonsWithoutDragons\android\AndroidManifest.xml:21:13-24:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->G:\2DAM\MobileApps\Dungeons Without Dragons\Dungeons Without Dragons\DungeonsWithoutDragons\android\AndroidManifest.xml:22:17-69
+28-->G:\2DAM\MobileApps\Dungeons Without Dragons\Dungeons Without Dragons\DungeonsWithoutDragons\android\AndroidManifest.xml:22:25-66
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->G:\2DAM\MobileApps\Dungeons Without Dragons\Dungeons Without Dragons\DungeonsWithoutDragons\android\AndroidManifest.xml:23:17-77
+30-->G:\2DAM\MobileApps\Dungeons Without Dragons\Dungeons Without Dragons\DungeonsWithoutDragons\android\AndroidManifest.xml:23:27-74
+31            </intent-filter>
+32        </activity>
+33    </application>
+34
+35</manifest>

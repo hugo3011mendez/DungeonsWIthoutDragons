@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DungeonsWithoutDragons.iml" filepath="$PROJECT_DIR$/.idea/modules/DungeonsWithoutDragons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/DungeonsWithoutDragons.android.iml" filepath="$PROJECT_DIR$/.idea/modules/android/DungeonsWithoutDragons.android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/DungeonsWithoutDragons.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/DungeonsWithoutDragons.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/desktop/DungeonsWithoutDragons.desktop.iml" filepath="$PROJECT_DIR$/.idea/modules/desktop/DungeonsWithoutDragons.desktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/html/DungeonsWithoutDragons.html.iml" filepath="$PROJECT_DIR$/.idea/modules/html/DungeonsWithoutDragons.html.iml" />
+    </modules>
+  </component>
+</project>

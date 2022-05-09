@@ -1,0 +1,10 @@
+dungeons/without/dragons/BuildConfig.java
+ dungeons.without.dragons.BuildConfig
+dungeons/without/dragons/R.java
+ dungeons.without.dragons.R
+ dungeons.without.dragons.R$color
+ dungeons.without.dragons.R$drawable
+ dungeons.without.dragons.R$string
+ dungeons.without.dragons.R$style
+dungeons/without/dragons/AndroidLauncher.java
+ dungeons.without.dragons.AndroidLauncher
